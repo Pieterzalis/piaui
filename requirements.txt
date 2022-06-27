@@ -1,0 +1,7 @@
+pandas
+streamlit
+bs4
+spacy
+sklearn
+spacy>=3.0.0,<3.1.0
+https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.0.0/pt_core_news_sm-3.0.0-py3-none-any.whl#egg=pt_core_news_sm==3.0.0
