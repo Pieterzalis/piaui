@@ -1,6 +1,0 @@
-pandas
-streamlit
-bs4
-spacy
-sklearn
-python spacy download pt_core_web_lg
